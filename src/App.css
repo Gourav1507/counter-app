@@ -1,0 +1,14 @@
+button {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+input {
+  width: 10%;
+  padding: 16px 32px;
+}
